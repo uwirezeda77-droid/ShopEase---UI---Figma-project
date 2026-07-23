@@ -1,5 +1,4 @@
 # ShopEase---UI---Figma-project
-# ShopEase – E-Commerce Mobile App UI/UX Design
 
 Group Assignment IV-a | Management Information System (INSY 8313)
 Adventist University of Central Africa (AUCA)
